@@ -20,6 +20,5 @@ What rate of convergence of Newton's method is observed in the norm of the gradi
 ## Files:  
 - **Optimisation_algorithms.ipynb** - The description of the problem, initial conditions, solution, and visual answer.
 - **Optimisation_algorithms_supplementary.ipynb** - Additional code needed to convert the notebook to html.  
-   
-   
- Created by the end of March, 2022.
+$$ $$  
+$$Created\ by\ the\ end\ of\ March,\ 2022.$$
